@@ -32,5 +32,4 @@ Contents:
 
 -L1 and L2 Regularization (Ridge and Lasso Regression)
 
-(https://user-images.githubusercontent.com/64207177/120528871-89235800-c3f9-11eb-901a-97bc7e197cf4.png)
-
+![image](https://user-images.githubusercontent.com/64207177/120530437-25019380-c3fb-11eb-93dc-d5eb29121ede.jpg)
