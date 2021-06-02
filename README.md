@@ -18,6 +18,5 @@ Contents:
 -GridSearchCV & Hyperparameter Tuning for SVM 
 -L1 and L2 Regularization (Ridge and Lasso Regression)
 
-
-andy-kelly-0E_vhMVqL9g-unsplash.jpg![image](https://user-images.githubusercontent.com/64207177/120528871-89235800-c3f9-11eb-901a-97bc7e197cf4.png)
+[image](https://user-images.githubusercontent.com/64207177/120528871-89235800-c3f9-11eb-901a-97bc7e197cf4.png)
 
